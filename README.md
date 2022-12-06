@@ -1,4 +1,4 @@
-Addon for World of Warcraft, does combat analyzes offering clean visual data for the player
+Addon for World of Warcraft, does combat analysis offering clean visual data for the player.
 
 This repo contains the latest version of Details as published on CurseForge.
 
