@@ -1,4 +1,24 @@
-Changes since tag Details.DF.Wrath.10334.147
+tag 35b22fa0b236e6a45e3286611bb024885de6bf1b Details.DF.Wrath.10335.148
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Mon Dec 12 13:34:05 2022 -0300
+
+commit 3f298dcc7707577656f1e1e37cdca2660717ba3c
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Mon Dec 12 13:33:30 2022 -0300
+
+    Up version counter
+
+commit dc1d27682e688c82f761762c235f170b79effedd
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Sun Dec 11 23:10:45 2022 -0300
+
+    added exclusive function for pet detection
+
+commit 641e5cf0dca2e2c2795505a980f15da8bfc9dcab
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Sun Dec 11 14:09:44 2022 -0300
+
+    Lib OpenRaid and Details! Framework updates
 
 commit ebade8e159043b34c4c8a76ebf6eb0ea0552173a
 Author: Tercio Jose <terciob19@hotmail.com>
